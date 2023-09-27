@@ -1,0 +1,1343 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 16:46:03] "[31m[1mGET / HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 16:46:05] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 16:46:06] "[31m[1mGET / HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 17:45:02] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 18:53:55] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:127.0.0.1 - - [01/Jun/2023 18:55:46] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.1.30:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 665-374-749
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 665-374-749
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\bone.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:04:18] "GET /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:04:37] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:07:28] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:07:34] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:08:35] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:08:37] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:08:37] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:08:38] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:09:41] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:10:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:10:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:11:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.30:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:12:38] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:12:53] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:13:13] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [13/Jun/2023 23:13:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.68:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.68:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.68:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.68:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:55:18] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:55:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:55:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:56:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:56:09] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:56:54] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:57:05] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 20:57:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Simon\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:57:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.68:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 878-585-209
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:00:56] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:19:43] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:19:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:31:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-226-328
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 14:59:09] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 14:59:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 15:02:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 17:26:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 17:41:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 17:44:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2023 17:47:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 12:10:45] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 12:10:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 12:10:51] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:16:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:16:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:19:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:19:02] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:30:08] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:30:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:30:56] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:30:57] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:31:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:31:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:32:04] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:32:04] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:32:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 16:32:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:29:43] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:29:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:33:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:33:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:49:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:49:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:51:09] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:56:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:56:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:58:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 17:58:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 18:15:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2023 18:15:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:12:23] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:12:23] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:36:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:36:11] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:36:44] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:36:44] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:48:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 11:48:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:03:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:03:53] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:18:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:18:15] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:21:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:21:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:33:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:33:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:42:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:42:24] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:48:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 12:48:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 13:02:16] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 13:02:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 13:13:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 13:13:11] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 14:09:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 14:09:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:19:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:19:04] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:19:42] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:19:42] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:51:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 15:51:34] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:04:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:04:03] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:05:00] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:05:01] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:05:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:05:56] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:22:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:22:08] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:26:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 16:26:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:04:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:04:06] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:04:42] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:04:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:23:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:23:55] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:26:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:26:45] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:30:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:30:43] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:31:32] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:31:32] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:34:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 19:34:28] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 22:35:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 22:35:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 23:51:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2023 23:51:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 12:05:29] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 12:05:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:47:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:47:20] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:56:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:56:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:58:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 14:58:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:08:25] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:08:25] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:10:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:10:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:13:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:13:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:18:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:18:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:19:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:19:51] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:34:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:34:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:42:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 15:42:10] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:19:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:19:11] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:19:18] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:16] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:35] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:26:55] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:29:02] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:17] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:33] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:30:39] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:41:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:41:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 16:42:06] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:28:04] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:28:58] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:37:08] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:37:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:37:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:37:39] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:38:10] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:47:19] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 17:56:39] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:21:53] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:27:45] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:32:22] "[36mGET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:37:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:37:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:37:45] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:38:18] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:38:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:38:25] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:50:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:50:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:50:44] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:53:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:53:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 18:53:28] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 19:56:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 19:56:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 19:57:06] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 20:29:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 20:29:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 20:29:08] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 21:46:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 21:46:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 21:46:11] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:07:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:07:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:07:58] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:11:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:11:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:12:02] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:21:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:21:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:21:42] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:21] "GET /uploads/65-rotated2-rotated3-rotated2-rotated1.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:31] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:25:38] "GET /uploads/42-rotated2-rotated2-rotated3-rotated1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:26:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:26:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 22:26:12] "GET /uploads/92-rotated1-rotated2-rotated1.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:02:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:02:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:02:40] "GET /uploads/29-rotated3-rotated3-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:03:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:03:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:03:43] "GET /uploads/32-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:03:53] "POST /predict HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:03:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:04:00] "GET /uploads/42-rotated2-rotated2-rotated3-rotated1.jpg HTTP/1.1" 200 -
+INFO:root:La fonction predict a été appelée
+INFO:root:La fonction predict a été appelée
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:05:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:05:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:05:29] "GET /uploads/10-rotated1-rotated1-rotated3.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:11:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:11:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:13:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:13:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:13:52] "GET /uploads/10-rotated1.jpg HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:14:18] "POST /predict HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:14:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:14:24] "GET /uploads/4-rotated2-rotated3-rotated1-rotated1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:15:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:15:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:16:03] "GET /uploads/4-rotated2-rotated3-rotated1-rotated1.jpg HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:16:57] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:16:57] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 00:17:03] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:22:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:22:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:22:26] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:43:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:43:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:43:10] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:24] "GET /uploads/6-rotated2-rotated1-rotated2.jpg HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:32] "POST /predict HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:39] "GET /uploads/42-rotated2-rotated2-rotated3-rotated1.jpg HTTP/1.1" 200 -
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 14:46:53] "GET /uploads/41-rotated3-rotated1-rotated3.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\testfile.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.88:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:root:Prediction request received
+INFO:root:Prediction request received
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 15:14:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 15:14:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 15:14:14] "GET /uploads/65-rotated2-rotated3-rotated2-rotated1.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 359-904-035
+INFO:werkzeug: * Detected change in 'C:\\Users\\calar\\OneDrive\\Bureau\\Etudes\\BoneIdea\\boneidea_be\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
